@@ -1,0 +1,166 @@
+{
+  "Header": {
+    "title": "digital transformation by offering complete IT consulting and services.",
+    "paragraph": "Grow Your Business With Us..."
+  },
+  "About": {
+    "paragraph": "Welcome to EYP, where quality and innovation collide to provide information technology solutions. We take great satisfaction in providing innovative technology solutions that are customised to match the specific requirements of our clients. We are the leading supplier of IT consulting and services.  Our goal at EYP is to enable companies with smart IT solutions that promote expansion, effectiveness, and success. We are dedicated to being a reliable partner, helping our clients navigate the constantly changing world of technology with skill, morality, and a focus on the needs of the client.",
+    "Why": [
+      "Team of Experts",
+      "Tailored Solutions",
+      "Agile Approach",
+      "End-to-End Services"
+    ],
+    "Why2": ["Integrity", "Innovation", "Client-Centric", "Excellence"]
+  },
+  "Industries": [
+    {
+      "title": "Banking",
+
+      "smallImage": "img/portfolio/bank.jpg"
+    },
+    {
+      "title": "Ecommerce",
+
+      "smallImage": "img/portfolio/01-ecomsmall.jpg"
+    },
+    {
+      "title": "Education",
+
+      "smallImage": "img/portfolio/edu.jpg"
+    },
+    {
+      "title": "Automotive",
+
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Marine",
+      "smallImage": "img/portfolio/marinesmall.jpg"
+    },
+    {
+      "title": "Technology",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Manufacturing",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Logistics",
+      "smallImage": "img/portfolio/07-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Testing Services",
+      "text": "Testing Facilities At EYP, we provide thorough and excellent software testing services to guarantee the dependability and quality of your applications. Our skilled group of testers uses best practices and industry-leading approaches to find and fix possible problems, guaranteeing that your software works flawlessly in a variety of settings and platforms. We do all possible to ensure the highest level of effectiveness and user pleasure, from functional testing to performance testing, security testing, and user experience testing."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Azure Services",
+      "text": "Azure function As one of the top providers of IT services, we leverage the strength of Microsoft's extensive cloud infrastructure to offer all-inclusive Azure services. To maximise effectiveness and economy, our Azure specialists help with application strategy, migration, and optimisation for the cloud. We provide complete Azure solutions, encompassing IoT, data management, AI integration, and application development. Your data and operations are safeguarded thanks to our emphasis on security and compliance. Your company may access a wide range of cloud services with our Azure service, allowing you scalability, flexibility, and agility. This gives you the freedom to innovate, grow your capabilities, and seize new possibilities."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Data Engineering Services",
+      "text": "Services for Data Engineering The cornerstone for effective analytics projects and data-driven decision-making is laid by our data engineering service. Strong data pipelines are built by our knowledgeable data engineers, who also transform, clean, and get data ready for analysis. In order to improve data accessibility and dependability, we develop and execute data lakes and warehouses. By utilising cutting-edge technologies, we guarantee data quality and consistency and facilitate the smooth integration of various data sources. By utilising our Data Engineering solution, your company can fully utilise data analytics, generating strategic insights, enhancing operational efficiency, and maintaining a competitive edge in an increasingly data-driven world."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Full Stack",
+      "text": "Complete Stack Development Assistance Our Full Stack Development solution at EYP combines frontend and backend skills to produce adaptable, high-performance applications. It spans the whole software development lifecycle. Our seasoned developers are adept in a broad range of programming languages and frameworks and have a broad skill set. We create scalable, engaging, and user-focused online and mobile applications that are customised to your company's requirements using an agile and cooperative methodology. Our Full Stack Development service guarantees that your digital solutions are reliable, interesting, and flexible from conception to implementation, ensuring a smooth user experience and optimising your online visibility."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Devops Services",
+      "text": "DevOps Support  At EYP, our DevOps solution is focused on establishing a continuous integration and delivery culture by combining development and IT operations. We use automation, teamwork tools, and comprehensive monitoring capabilities to optimise your software development process. Our DevOps specialists guarantee seamless and frequent software releases, cutting down on development cycles and minimising risks, with an emphasis on speed, stability, and reliability. By working closely with your team, we enable your company to scale effectively, spur innovation, and quickly adjust to market demands—all of which help it gain a competitive edge in the ever-changing digital marketplace."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Machine Learning Services",
+      "text": "Services for Machine Learning Our machine learning service will transform your company's operations by utilising artificial intelligence. To forecast trends, streamline workflows, and automate challenging jobs, our team of skilled data scientists and machine learning engineers creates and implements unique machine learning models. Our machine learning solutions, which range from recommendation engines and predictive analytics to computer vision and natural language processing, provide your business the power to make wise decisions based on data. With our Machine Learning solution, we work directly with your team to guarantee the effective installation of the model and to offer ongoing support, ensuring that you get quantifiable and significant results."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "IT Staffing",
+      "text": "IT Staffing Provider Our IT staffing service is committed to identifying the ideal candidate for the talent requirements of your company. We recognise that your team is the foundation of your success, so our knowledgeable recruiters carefully consider and screen applicants to make sure they fit your company's culture and have the required experience. Whether you need on-the-spot assistance or long-term personnel expansion, our IT staffing solution guarantees that you will receive elite experts who successfully support your initiatives and objectives. We save you time and effort during the hiring process by focusing on efficiency and quality. This lets you focus on your core business while we assemble a successful team."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Artificial Intelligence",
+      "text": "Businesses worldwide are looking to Generative AI to alter their organisations as the AI revolution picks up steam. This next evolution of human-computer interaction has the potential to completely upend almost every industry on the globe."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Power BI services      ",
+      "text": "The Power BI Service  Our Power BI service at EYP converts your unprocessed data into reports with eye-catching graphics and useful insights. Our specialists collaborate closely with your team to determine the necessary data and key performance indicators before creating interactive dashboards that provide data analysis in real time. You can make educated judgements, keep an eye on performance, and spot areas for development and improvement with Power BI. Our Power BI solutions are customised to meet your specific business requirements, giving you a thorough insight of your data to support strategic decision-making and help you stay ahead of the competition."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Siddarth",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Tyson",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Dune",
+      "job": "Senior Architecct"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Siddarth Rathore",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "100 King Street West, Suite 5700,Toronto ON ,M5X1C7",
+    "phone": "+1 418-210-8744",
+    "email": "info@eyp.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Overview": {
+    "paragraph": "At EYP, creativity and inspiration collide, opening up new possibilities and producing amazing results. We are leaders in the use of digital technology, paving the way for multinational corporations to generate enormous value and leave a lasting impression."
+  }
+}

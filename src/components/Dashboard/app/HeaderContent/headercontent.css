@@ -1,0 +1,45 @@
+.headerIcon .last {
+    margin-right: 30px;
+}
+.headerIcon .ant-avatar {
+    float: right;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: #ffff;
+    /* background: transparent; */
+    /* background:#1677ff; */
+    /* background:#d5e2f7; */
+    background: linear-gradient(45deg, rgb(16, 137, 211) 0%, rgb(18, 177, 209) 100%);
+
+}
+.ant-avatar-image {
+    background: transparent;
+    /* background: rgb(161, 161, 235); */
+}
+.whiteBox {
+    background: #fff;
+    border-radius: 6px;
+    width: 100%;
+    min-height: 100px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+.shadow {
+    box-shadow: 0px 0px 20px 3px rgba(150, 190, 238, 0.15);
+}
+.profileDropdown .pad15 {
+    display: flex;
+}
+
+.pad15 {
+    padding: 15px;
+}
+.line {
+    border-top: 1px solid #edf0f5;
+    width: 100%;
+}
+.profileDropdown .info {
+    float: left;
+    display: inline;
+    padding-left: 15px;
+}
